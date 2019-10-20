@@ -43,6 +43,7 @@ w,,w_Zus_wrg,408007,,,4080,07,data,,UIR,0=AUS;1=EIN ,,,,,,,,,,,,,,,,,,,,,,,,,
 w,,w_Druckungl_zul,408008,,,4080,08,data,,UIR,0=NICHT ZULÄSSIG;1=ZULÄSSIG ,,,,,,,,,,,,,,,,,,,,,,,,,
 w,,w_Druckungleichgewicht,408009,,,4080,09,data,,SIR,,m³/h ,,,,,,,,,,,,,,,,,,,,,,,,,
 w,,w_AktStufe,40a1000200,,,"40a1",00,data,m,UCH,,,,byp,s,BI4,0=BYPASS AUS;1=BYPASS EIN,,,frost,s,BI2,0=FROST AUS;1=FROST EIN ,,,,,,,,,,,,,,,,,,,,,,,,,
+w,,TemperaturePostheater,4080030b,,,4080,0b,,,UIR,10,°C
 
 #### SENSORDATEN ####
 r2,,Ablufttemperatur,402207,,,"4022",07,data,,UIR,10,°C ,,,,,,,,,,,,,,,,,,,,,,,,,
